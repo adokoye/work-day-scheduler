@@ -17,6 +17,7 @@ This is a simple calendar application that allows a user to save events for each
 * MomentJs
 
 ### Screenshot
+![Screenshot](https://github.com/adokoye/work-day-scheduler/blob/master/assets/images/screenshot.png)
 
 
 ### Link
